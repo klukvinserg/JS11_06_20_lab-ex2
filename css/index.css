@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding-top: 20px;
+}
+
+#mainDiv {
+  width: 60%;
+  margin: auto;
+  font-size: x-large;
+  font-weight: bolder;
+}
